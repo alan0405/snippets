@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="index.css">
+        <script src='vue/vue.min.js'></script>
+        <script src="vue/vcl.js"></script>
+        <script src="vue/gp.js"></script>
+        <script src="models/app.js"></script>
+        <script src="./index.js"></script>
+        <title>snippets</title>
+    </head>
+
+    <body>
+        <div id="app">
+            <app></app>
+        </div>
+        <script>
+            Vue.create({
+                el: '#app',
+                components: ['components/app']
+            })
+        </script>
+    </body>
+
+</html>

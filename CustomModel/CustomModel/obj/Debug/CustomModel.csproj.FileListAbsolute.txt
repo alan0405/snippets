@@ -1,0 +1,14 @@
+D:\g\boot\boot\bin\Debug\template\bin\CustomModel.dll
+D:\g\boot\boot\bin\Debug\template\bin\CustomModel.pdb
+D:\g\boot\boot\bin\Debug\template\CustomModel\CustomModel\obj\Debug\CustomModel.csprojAssemblyReference.cache
+D:\g\boot\boot\bin\Debug\template\CustomModel\CustomModel\obj\Debug\CustomModel.csproj.CoreCompileInputs.cache
+D:\g\boot\boot\bin\Debug\template\CustomModel\CustomModel\obj\Debug\CustomModel.dll
+D:\g\boot\boot\bin\Debug\template\CustomModel\CustomModel\obj\Debug\CustomModel.pdb
+D:\g\boot\boot\bin\Debug\template\CustomModel\CustomModel\obj\Debug\CustomModel.csproj.CopyComplete
+D:\boot\snippets\bin\CustomModel.dll
+D:\boot\snippets\CustomModel\CustomModel\obj\Debug\CustomModel.csproj.CoreCompileInputs.cache
+D:\boot\snippets\CustomModel\CustomModel\obj\Debug\CustomModel.csproj.CopyComplete
+D:\boot\snippets\CustomModel\CustomModel\obj\Debug\CustomModel.dll
+D:\boot\snippets\CustomModel\CustomModel\obj\Debug\CustomModel.pdb
+D:\boot\snippets\bin\CustomModel.pdb
+D:\boot\snippets\CustomModel\CustomModel\obj\Debug\CustomModel.csprojAssemblyReference.cache
